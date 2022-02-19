@@ -10,12 +10,6 @@ Cool stuff I'm working on right now:
 - 🧠 Neuromorphic computing
 - 💻 RISC V simulator in C++
 
-Here are some fun facts about me:
-- 🔭 I'm an avid learner 
-- 📚 I enjoy reading.
-- 🏀 I play basketball
-- 🎸 I play guitar
-
 📫 How to reach out to me:
 - Email - swsartaj@gmail.com
 - Linkedin - https://www.linkedin.com/in/sartaj-singh-wariah/
