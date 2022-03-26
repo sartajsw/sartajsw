@@ -2,8 +2,6 @@
 
 I'm Sartaj and I'm a Master's Student at CMU ECE. My main areas of interest are Computer Architecture, Digital Design and Embedded Systems.
 
-> I'm actively looking for Summer 2022 Internships
-
 Cool stuff I'm working on right now:
 - 🤖 Tapeout of a low power edge AI accelerator
 - 🌐 Project on offloading datacenter tax
