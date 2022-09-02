@@ -3,9 +3,7 @@
 I'm Sartaj and I'm a Master's Student at CMU ECE. My main areas of interest are Physical Design, Computer Architecture and Digital Design.
 
 Cool stuff I'm working on right now:
-- 🤖 Tapeout of a low power edge AI accelerator
-- 🌐 Project on offloading datacenter tax
-- 🧠 Neuromorphic computing
+- 🤖 Homomorphic Encryption
 - 💻 RISC V simulator in C++
 
 📫 How to reach out to me:
