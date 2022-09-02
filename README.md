@@ -10,6 +10,8 @@ Cool stuff I'm working on right now:
 - Email - swsartaj@gmail.com
 - Linkedin - https://www.linkedin.com/in/sartaj-singh-wariah/
 
+I graduate in December 2022 and I'm actively looking for new opportunities.
+
 <!--
 
 If you are looking at this, you've found my secret link - https://intknow.wordpress.com/
